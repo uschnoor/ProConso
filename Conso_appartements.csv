@@ -1,0 +1,89 @@
+,,,Consommation en kWh,,,,,
+,,ISE,"2,014","2,015","2,016","2,017",Nombre de pièces,Utilisation
+BÂTIMENT 1,Communs,407318,"20,519","18,940","19,924","15,349",Aucun,Aucun
+,Appartement 1,407302,996,526,939,"1,672",3 pièces,Résidence principale
+,Appartement 2,407303,"2,230","1,773","2,048","1,665",3 pièces,Résidence principale
+,Appartement 3,407304,"1,160","1,108","1,279","1,749",3 pièces,Résidence principale
+,Appartement 4,407305,778,593,911,790,Studio,Résidence principale
+,Appartement 5,407306,762,598,414,"1,037",2 pièces,Résidence principale
+,Appartement 6,407307,"1,040",832,"1,135","1,091",2 pièces,Résidence principale
+,Appartement 7,407308,745,976,"1,094","1,328",3 pièces,Résidence principale
+,Appartement 8,407309,"2,163","1,776","1,652","1,506",3 pièces,Résidence principale
+,Appartement 9,407311,"1,231","1,126","1,334","1,378",3 pièces,Résidence principale
+,Appartement 10,407312,546,640,668,600,Studio,Résidence secondaire
+,Appartement 11,407313,735,844,871,"1,005",3 pièces,Résidence secondaire
+,Appartement 12,407314,48,51,6,40,2 pièces,Résidence secondaire
+,Appartement 13,407316,730,511,652,422,2 pièces,Résidence secondaire
+,Appartement 14,1021896,"7,496","7,901","10,164","9,213",3 pièces,Résidence principale
+BÂTIMENT 2,Communs,409483,"5,000","4,544","3,913","5,155",Aucun,Aucun
+,Blanchisserie,409482,"88,452","101,532","80,863","93,475",Aucun,Aucun
+,Appartement 1,409469,12,12,46,22,3 pièces,Résidence secondaire
+,Appartement 2,409470,832,764,606,515,2 pièces,Résidence secondaire
+,Appartement 3,409471,496,266,617,"1,231",3 pièces,Résidence principale
+,Appartement 4,409472,428,162,293,507,2 pièces,Résidence principale
+,Appartement 5,409473,899,748,674,927,2 pièces,Résidence principale
+,Appartement 6,409474,"3,782","3,034","3,140","3,385",4 pièces,Résidence principale
+,Zone commerciale 1,409475,"5,812","5,813","5,653","5,576",Aucun,Aucun
+,Zone commerciale 2,409477,"2,764","3,096","3,518","3,796",Aucun,Aucun
+,Appartement 7,409478,758,624,537,879,2 pièces,Résidence principale
+,Appartement 8,409480,"2,808","3,034","2,721","1,605",4 pièces,Résidence principale
+BÂTIMENT 3,Communs,409348,"10,186","9,676","7,241","7,545",Aucun,Aucun
+,Appartement 1,409338,"1,974","1,923","2,035","2,627",4 pièces,Résidence principale
+,Appartement 2,409339,844,"1,056","1,599","2,532",4 pièces,Résidence principale
+,Appartement 3,409340,140,168,201,131,2 pièces,Résidence secondaire
+,Appartement 4,409341,"1,338","2,323","2,364","1,615",3 pièces,Résidence principale
+,Appartement 5,409342,"1,021",896,902,930,2 pièces,Résidence principale
+,Appartement 6,409343,"1,022",758,636,569,2 pièces,Résidence principale
+,Appartement 7,409344,"2,905","3,621","2,074","2,208",4 pièces,Résidence principale
+,Appartement 8,409345,"1,371","2,804","1,875","1,642",3 pièces,Résidence principale
+,Appartement 9,409346,861,740,785,"1,209",3 pièces,Résidence principale
+,Appartement 10,409347,"1,621","1,461","1,656","2,421",3 pièces,Résidence principale
+BÂTIMENT 4,Communs,411675,3804,"3,719","3,676","3,901",Aucun,Aucun
+,Appartement 1,411661,330,235,112,703,2 pièces,Résidence principale
+,Appartement 2,411662,413,345,382,369,2 pièces,Résidence secondaire
+,Appartement 3,411663,141,241,50,246,2 pièces,Résidence secondaire
+,Appartement 4,411664,597,534,518,484,3 pièces,Résidence secondaire
+,Appartement 5,411666,373,352,311,283,2 pièces,Résidence secondaire
+,Appartement 6,411667,"1,413","1,182","1,319","1,269",3 pièces,Résidence principale
+,Appartement 7,411668,631,"1,663","1,170","1,373",3 pièces,Résidence principale
+,Appartement 8,411669,"1,620",779,567,308,Studio,Résidence secondaire
+,Appartement 9,411671,294,315,356,335,3 pièces,Résidence secondaire
+,Appartement 10,411672,856,869,782,"1,204",3 pièces,Résidence principale
+,Appartement 11,411673,983,"1,035",892,892,3 pièces,Résidence principale
+,Appartement 12,411674,458,308,119,219,Studio,Résidence secondaire
+BÂTIMENT 5,Communs,412911,"11,260","10,595","10,125","10,227",Aucun,Aucun
+,Appartement 1a,412871,"1,112",674,645,585,3 pièces,Résidence secondaire
+,Appartement 2a,412872,309,238,72,244,2 pièces,Résidence secondaire
+,Appartement 3a,412873,377,772,463,302,2 pièces,Résidence secondaire
+,Appartement 4a,412874,264,221,717,598,3 pièces,Résidence secondaire
+,Appartement 5a,412875,197,170,159,161,2 pièces,Résidence secondaire
+,Appartement 6b,412876,98,583,933,995,3 pièces,Résidence principale
+,Appartement 7b,412878,296,346,479,367,Studio,Résidence secondaire
+,Appartement 8b,412879,230,212,226,182,Studio,Résidence secondaire
+,Appartement 9b,412880,391,379,316,296,2 pièces,Résidence secondaire
+,Appartement 10a,412881,657,250,257,136,Studio,Résidence secondaire
+,Appartement 11a,412882,564,617,743,693,3 pièces,Résidence secondaire
+,Appartement 12a,412883,368,372,465,365,3 pièces,Résidence secondaire
+,Appartement 13a,412884,240,406,252,256,Studio,Résidence secondaire
+,Appartement 14a,412885,"1,092",527,460,452,2 pièces,Résidence secondaire
+,Appartement 15b,412886,138,62,110,65,Studio,Résidence secondaire
+,Appartement 16b,412887,717,789,665,525,3 pièces,Résidence secondaire
+,Appartement 17b,412888,530,351,411,206,Studio,Résidence secondaire
+,Appartement 18b,412889,451,312,327,470,2 pièces,Résidence secondaire
+,Appartement 19b,412890,551,700,577,219,2 pièces,Résidence secondaire
+,Appartement 20b,412891,611,737,772,815,3 pièces,Résidence principale
+,Appartement 21a,412892,"1,983","1,382","1,441","1,600",4 pièces,Résidence principale
+,Appartement 22a,412896,533,746,733,416,2 pièces,Résidence secondaire
+,Appartement 23b,412897,149,0,59,139,2 pièces,Résidence secondaire
+,Appartement 24b,412898,74,171,85,135,Studio,Résidence secondaire
+,Appartement 25b,412899,234,189,266,242,Studio,Résidence principale
+,Appartement 26b,412900,370,303,443,529,2 pièces,Résidence principale
+,Appartement 27a,412901,630,665,879,584,2 pièces,Résidence principale
+,Appartement 28a,412902,926,633,834,"1,476",4 pièces,Résidence principale
+,Appartement 29b,412904,357,222,345,271,Studio,Résidence secondaire
+,Appartement 30b,412905,632,"1,285",233,137,Studio,Résidence secondaire
+,Appartement 31b,412906,797,537,264,421,3 pièces,Résidence secondaire
+,Appartement 32b,412907,112,194,594,490,4 pièces,Résidence secondaire
+,Appartement 33b,412908,255,321,326,627,3 pièces,Résidence secondaire
+,Appartement 34b,412909,172,137,100,76,3 pièces,Résidence secondaire
+,Appartement 35b,412910,249,90,272,105,2 pièces,Résidence secondaire
